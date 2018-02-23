@@ -1,6 +1,4 @@
 
-.. image:: https://travis-ci.org/beetbox/beets.svg?branch=master
-    :target: https://travis-ci.org/beetbox/beets
-
+[https://travis-ci.org/HF0/test.svg?branch=master]
 
 # test
