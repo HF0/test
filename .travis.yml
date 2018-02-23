@@ -7,5 +7,5 @@ python:
   - "3.6"
 
 script:
-  - python pytest.py
+  - py pytest.py
 
