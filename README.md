@@ -1,4 +1,5 @@
 
-[https://travis-ci.org/HF0/test.svg?branch=master]
+
+![Travis-ci](https://travis-ci.org/HF0/test.svg?branch=master)
 
 # test
